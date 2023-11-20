@@ -45,7 +45,7 @@ I am an open-minded individual with the ability to think on my feet. I work very
   
 ### BSc Computer Sciences and Informatics
 **University of Johannesburg**  
-*Incomplete*  
+*In progress*  
 - Languages learned - C++, Java, ASP.Net
 - Databases - MySQL
 - Technologies - Dropbox, Gantt Chat
