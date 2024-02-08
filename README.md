@@ -2,7 +2,7 @@
 <tr>
 
 ### Job Title
-I am an analytical, detail-oriented new developer with a passion for coding and problem solving. I study Software Engineering with Code Space, whereby I gain hands-on experience in different languages and technologies, including JavaScript, CSS, HTML, React, Next JS, and databases including MangoDB, Firebase, and Supabase. I am passionate about learning new coding skills, and I am always looking forward to enhancing what I already know.
+I am an analytical, detail-oriented new developer with a passion for coding and problem solving. I completed Software Engineering Certificate with Code Space Academy, whereby I gained hands-on experience in different languages and technologies, including JavaScript, CSS, HTML, React, Next JS, and databases including MangoDB, Firebase, and Supabase. I am passionate about learning new coding skills, and I am always looking forward to enhancing what I already know.
 I am an open-minded individual with the ability to think on my feet. I work very well in a team environment, and I get along with others easily.
 
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   **+2779 3455177**
