@@ -22,6 +22,7 @@ I am an open-minded individual with the ability to think on my feet. I work very
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
+![MONGODB](https://img.shields.io/badge/-MONGODB-black?style=flat-circle&logo=css3)
 
 
 # Projects 
